@@ -5,7 +5,7 @@ Lab 2(2). Map with twitter friends locations
 module json_navigation gives for users a convinient tool to navigate json files in two directions.
 
 Usage of the script: 
-:go [key/index]  - go to the value on key/index
+:go [key/index]  - go to the value on key/index\
 :gb - go back on 1 level
 :gb / - go back to the root
 :gb [number]  - go back on [number] > 0 levels
