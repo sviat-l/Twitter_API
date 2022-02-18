@@ -30,7 +30,8 @@ Examples:
 # Third Task (Map)
 Main module is web_app.py .  It runs server with app that can draw a map with locations of folowing people on Twitter.
 
-#Home page looks minimalistsc:
+#Home page looks minimalistic.\
+#Here you can print Twitter user nickname and number of following people to find.\
 
 ![image](https://user-images.githubusercontent.com/91615606/154765469-13a4768f-44f5-4e6a-a613-02172c015035.png)
 
@@ -40,7 +41,7 @@ Main module is web_app.py .  It runs server with app that can draw a map with lo
 
 
 
-#Here you can print Twitter user nickname and number of following people to find.
+
 ![image](https://user-images.githubusercontent.com/91615606/154765908-83dd31c8-46fd-4e69-a7e1-d02b10c196e7.png)
 ![image](https://user-images.githubusercontent.com/91615606/154765965-33e9e896-136c-4d52-b032-58211fdc6737.png)
 
