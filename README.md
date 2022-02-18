@@ -4,16 +4,16 @@ Lab 2(2). Map with twitter friends locations
 # Second task (navigatio)
 module json_navigation gives for users a convinient tool to navigate json files in two directions.
 
-Usage of the script: 
+Usage of the script: \
 :go [key/index]  - go to the value on key/index\
-:gb - go back on 1 level
-:gb / - go back to the root
-:gb [number]  - go back on [number] > 0 levels
-:print all - print all values from the root with their path from the root
-:print - print all values from current location with their path from the root
-:quit - stop running program
-:h - print USAGE information
-:crp - print current position from root
+:gb - go back on 1 level\
+:gb / - go back to the root\
+:gb [number]  - go back on [number] > 0 levels\
+:print all - print all values from the root with their path from the root\
+:print - print all values from current location with their path from the root\
+:quit - stop running program\
+:h - print USAGE information\
+:crp - print current position from root\
 
 Examples:
 
